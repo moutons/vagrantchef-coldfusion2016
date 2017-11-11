@@ -1,7 +1,6 @@
 # chef-coldfusion2016
 
-This cookbook preps the system for coldfusion installation.
-It will hopefully eventually install and configure coldfusion, but since CF is wonky who knows.
+Seriously, this code is not in a usable state. Don't use it.
 
 ## usage
 
